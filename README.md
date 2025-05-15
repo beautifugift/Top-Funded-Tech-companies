@@ -31,5 +31,3 @@ These figures reflect strong investor confidence in Africa’s digital economy a
 * `visualization-canvas.project` – Design file (if applicable)
 
 ---
-
-Feel free to customize the file references based on your repo contents. Let me know if you'd like a shorter version or want help formatting your infographic to match the README.
