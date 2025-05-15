@@ -1,6 +1,6 @@
 ## Africa's Top Tech Startups – Visualization
 
-![topfunded](https://example.com/image.png)
+<img width="245" alt="image" src="https://github.com/user-attachments/assets/f2f7cbad-79e5-416b-bbc6-07779aa6e5a8" />
 
 
 This project highlights the most influential tech startups across Africa, with a focus on countries leading the continent's digital transformation—namely Nigeria, Egypt, South Africa, and Kenya.
